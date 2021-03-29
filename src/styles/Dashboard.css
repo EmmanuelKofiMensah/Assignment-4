@@ -1,0 +1,26 @@
+.maindiv {
+  background-color: cyan;
+}
+
+.dashboard {
+  width: 100vw;
+  height: 10vh;
+  padding-top: 10px;
+  /* background-color: cyan; */
+  text-align: right;
+}
+.dash-header {
+  width: 60vw;
+  font-style: oblique;
+  letter-spacing: 5px;
+}
+.links {
+  display: grid;
+  margin-left: 20px;
+  font-size: 20px;
+  font-style: oblique;
+  font-weight: bolder;
+  height: 80vh;
+  width: 10vw;
+  /* background-color: cyan; */
+}
